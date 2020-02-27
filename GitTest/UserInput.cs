@@ -8,6 +8,11 @@ namespace GitTest
     {
         public void WaitForInput()
         {
+            //1
+            //2
+            //3
+            //4
+            //Awesome feature to do here!
             Console.Write(">>> ");
             var str = Console.ReadLine();
             Console.WriteLine(str.ToUpper());
