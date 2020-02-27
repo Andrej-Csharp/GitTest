@@ -7,6 +7,7 @@ namespace GitTest
         static void Main(string[] args)
         {
             var userInput = new UserInput();
+            userInput.WaitForInput();
         }
     }
 }
