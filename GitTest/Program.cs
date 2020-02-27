@@ -6,7 +6,7 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("HENLO Rostik!! Its me, MARIO!");
+            Console.WriteLine("Hello Rostik!! Its me, MARIO!");
             var userInput = new UserInput();
             userInput.WaitForInput();
         }
